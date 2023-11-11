@@ -2,7 +2,7 @@ LINK_FORMS = 'https://developer.automationanywhere.com/challenges/automationanyw
 
 LINK_PROCUREMENT = 'https://developer.automationanywhere.com/challenges/AutomationAnywhereLabs-POTrackingLogin.html'
 
-FOLDER_FILE_XLSX = 'C:\\Users\Lucas\Desktop\Python\DesafiosRPA\SupplyChainManagement\FolderFileXLSX\\'
+FOLDER_FILE_XLSX = ''
 
 NAME_FILE_XLSX = 'StateAssignments.xlsx'
 
